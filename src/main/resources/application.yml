@@ -1,0 +1,4 @@
+necsord:
+  country:
+    baseUrl: https://raw.githubusercontent.com/mledoze/countries/master
+    countries-path: /countries.json
